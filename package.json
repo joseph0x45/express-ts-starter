@@ -1,8 +1,8 @@
 {
   "name": "twp-express-ts",
-  "version": "1.0.0",
+  "version": "1.0.6",
   "description": "Express app with typescript support",
-  "bin": "./bin/express-ts-starter.js",
+  "bin": "bin/express-ts-starter.js",
   "main": "index.ts",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
@@ -25,7 +25,6 @@
   },
   "homepage": "https://github.com/TheWisePigeon/express-ts-starter#readme",
   "dependencies": {
-    "bcrypt": "^5.0.1",
     "body-parser": "^1.20.0",
     "dotenv": "^16.0.1",
     "express": "^4.18.1",
