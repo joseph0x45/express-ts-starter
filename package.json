@@ -2,6 +2,7 @@
   "name": "express-ts-starter",
   "version": "1.0.0",
   "description": "Express app with typescript support",
+  "bin": "./bin/express-ts-starter.js",
   "main": "index.ts",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
