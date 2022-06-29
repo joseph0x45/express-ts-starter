@@ -1,5 +1,5 @@
 {
-  "name": "express-ts-starter",
+  "name": "twp-express-ts",
   "version": "1.0.0",
   "description": "Express app with typescript support",
   "bin": "./bin/express-ts-starter.js",
