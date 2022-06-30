@@ -2,7 +2,6 @@
   "name": "twp-express-ts",
   "version": "1.0.6",
   "description": "Express app with typescript support",
-  "bin": "bin/express-ts-starter.js",
   "main": "index.ts",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
