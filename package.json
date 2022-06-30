@@ -1,5 +1,5 @@
 {
-  "name": "twp-express-ts",
+  "name": "express-ts-twp",
   "version": "1.0.6",
   "description": "Express app with typescript support",
   "main": "index.ts",
